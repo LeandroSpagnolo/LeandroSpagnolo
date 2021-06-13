@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroSpagnolo
 - 👀 I’m interested in learning new tools for programming
-- 🌱 I’m currently learning python/web scraping
+- 🌱 I’m currently learning python/C
 - 📫 How to reach me:
 Discord: xXLeanXx#2337
 
